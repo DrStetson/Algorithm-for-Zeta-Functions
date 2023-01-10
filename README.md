@@ -1,2 +1,3 @@
 # Algorithm-for-Zeta-Functions
-The code for the new algorithm that I developed for my dissertation.
+
+I am currently writing this code in python, but originally I did all of my computations using Mathematica.  The code is in this repository.
